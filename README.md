@@ -15,7 +15,11 @@ Einen LED Strip mit DMX Signal ansteuern
   - Wichtig darauf achten das der LED-Strip Adressiebar ist z.B. ein SPI-LED-Strip wie der WS2812B für mehr Informationen empfiehle ich das YouTube Video
 - Netzteile
   - Bei einem 5V argb-Strip wird nur ein USB-C Kabel und ein USB-Netzeil benötigt. Das Netzteil sollte allerdings zwischen 5V und 12V ausgangsspannung unterstützen.
- 
+- MAX485
+  - Wird benötigt um ein DMX-Signal in ein für den ESP lesbares Signal umzuwandeln
+  - AliExpress: 0,99€ https://de.aliexpress.com/item/1005004867487459.html?spm=a2g0o.cart.0.0.194e4ae4uiHq5e&mp=1&gatewayAdapt=glo2deu
+  - AliExpress: 5 Stück für 2,20€ https://de.aliexpress.com/item/1005003204223371.html?spm=a2g0o.cart.0.0.194e4ae4uiHq5e&mp=1&gatewayAdapt=glo2deu
+  - Amazon: 5 Stück für 2,47€ https://www.amazon.de/Plouluyt-Stueck-RS485-Modul-485-Modul-Konverter-wie-Abbildung-gezeigt/dp/B0BQR7LP4P/ref=sr_1_16_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=17KL3CICGV8Q5&dib=eyJ2IjoiMSJ9.IIwjd-nygYEqlnH5NYTeSXFamnmj8Q_WQmzdwDLGzEWB98ZnMDbyEp5Cxwtamd8Ndgl_qxZakDFbk8ESHSziVjibUzyyJec1RTDkarqvhfrQ0VVa4Vt6S8UGSqbB6osw-dopV7BOyrwFwjqquw3WDMrkgTPrIkrQ39bYT2a_59abOGmyUY_K-kIy9BenwDL5IJg5RR5WmtyoM4J--cbnnHSBYjzQnO26UjKcbMWM3-b1psOZY67zQjyUJXDMASXJ0kF_VbCGeb1G6HuL2sUbHBMjAGOgTlTAJXgRk_CWAKU.Q3krtWQk1YLsTP-DjBEBU0kwcRW3WxpsjOUdlRaLRTs&dib_tag=se&keywords=max+485&qid=1730549079&sprefix=max+48%2Caps%2C114&sr=8-16-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1
 
 
 
