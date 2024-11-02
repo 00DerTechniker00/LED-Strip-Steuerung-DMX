@@ -24,6 +24,7 @@ Einen LED Strip mit DMX Signal ansteuern
 
 
 
+![ESP32_RS485](https://github.com/user-attachments/assets/7e27935b-9396-4909-83fd-b499cc98d507)
 
 
 https://envirementalb.com/arduino/ESP32-pinout-30pins.png
