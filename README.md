@@ -8,13 +8,15 @@ Einen LED Strip mit DMX Signal ansteuern
 - Adressebale RGB LED Strip
   ![{607C9C8C-6F7A-41CD-A796-8E2614003D02}](https://github.com/user-attachments/assets/59b0692c-857f-4c49-afde-f85ea528fe26)
   - Entnommen aus: https://youtu.be/QnvircC22hU?si=SQL6aMKRhaSTdM1b (Watch the Video to Choose the best LED-Stripe option)
+  - Da hier FastLed verwendet wird ist dies Empfehlenswehrt
   - AliExpress: https://de.aliexpress.com/item/2036819167.html?spm=a2g0o.cart.0.0.194e4ae4uiHq5e&mp=1&gatewayAdapt=glo2deu (Verschiedene Optionen)
     - bzw. https://btf-lighting.de.aliexpress.com/store/1051119?spm=a2g0o.store_pc_allItems_or_groupList.pcShopHead_6187360.0
   - Amazon: https://www.amazon.de/stores/page/9A31C854-77F0-4C4F-BA26-3DAD60C14BD3?ingress=2&visitId=906dce31-081b-48d1-a215-04afd111285c&ref_=ast_bln (Verschiedene Optionen)
     - bzw. https://www.amazon.de/stores/BTF-LIGHTING/page/B78560B3-3126-4436-A467-28002202E7F4?ref_=ast_bln
-  - Wichtig darauf achten das der LED-Strip Adressiebar ist z.B. ein SPI-LED-Strip wie der WS2812B für mehr Informationen empfiehle ich das YouTube Video
+  - Wichtig darauf achten das der LED-Strip Adressiebar ist wie z.B. der WS2812B für mehr Informationen empfiehle ich das YouTube Video
 - Netzteile
   - Bei einem 5V argb-Strip wird nur ein USB-C Kabel und ein USB-Netzeil benötigt. Das Netzteil sollte allerdings zwischen 5V und 12V ausgangsspannung unterstützen.
+  - Bei Led-Stripes mit mehr Spannung wird ein extr Netzteil mit ausreichend Spannung benötigt. Züsätzlich wird ein DC Stecker Verbinder benötigt.
 - MAX485
   - Wird benötigt um ein DMX-Signal in ein für den ESP lesbares Signal umzuwandeln
   - AliExpress: 0,99€ https://de.aliexpress.com/item/1005004867487459.html?spm=a2g0o.cart.0.0.194e4ae4uiHq5e&mp=1&gatewayAdapt=glo2deu
