@@ -17,6 +17,7 @@ Einen LED Strip mit DMX Signal ansteuern
 - Netzteile
   - Bei einem 5V argb-Strip wird nur ein USB-C Kabel und ein USB-Netzeil benötigt. Das Netzteil sollte allerdings zwischen 5V und 12V ausgangsspannung unterstützen.
   - Bei Led-Stripes mit mehr Spannung wird ein extr Netzteil mit ausreichend Spannung benötigt. Züsätzlich wird ein DC Stecker Verbinder benötigt.
+  - https://wled-calculator.github.io/
 - MAX485
   - Wird benötigt um ein DMX-Signal in ein für den ESP lesbares Signal umzuwandeln
   - AliExpress: 0,99€ https://de.aliexpress.com/item/1005004867487459.html?spm=a2g0o.cart.0.0.194e4ae4uiHq5e&mp=1&gatewayAdapt=glo2deu
